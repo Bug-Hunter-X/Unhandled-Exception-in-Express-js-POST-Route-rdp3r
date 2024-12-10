@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications: failing to handle exceptions when processing request bodies.  The `bug.js` file shows the problematic code, which crashes if the request body is missing or malformed.  The `bugSolution.js` file provides a corrected version with proper error handling and input validation.
